@@ -1,0 +1,86 @@
+{
+  "id": "ev_9164543a790cb982b6901100a656d7b7cf138a96e991679cd602e94a66917608",
+  "subject": {
+    "kind": "website",
+    "name": "https://www.larkplayer.com/"
+  },
+  "operation": "web_page_states_capture",
+  "params": {
+    "max_states": 4,
+    "width": 1440
+  },
+  "result": {
+    "folder": "/home/raymant/coding/weechy-com/capture/states",
+    "found": 4,
+    "states": [
+      {
+        "changed": [
+          "expanded"
+        ],
+        "file": "state-1.png",
+        "index": 0,
+        "kind": "menu",
+        "label": "Features",
+        "sha256": "be23703288829026399ea235393fe3acb9c97ef2562ea444101bca7edbf42ac5"
+      },
+      {
+        "changed": [
+          "expanded"
+        ],
+        "file": "state-2.png",
+        "index": 1,
+        "kind": "menu",
+        "label": "Video credits and license",
+        "sha256": "1c80261dfab6cdbf1739730019e89f562334ad7b44ad4cd71e178321b5dd877b"
+      },
+      {
+        "changed": [
+          "expanded"
+        ],
+        "file": "state-3.png",
+        "index": 2,
+        "kind": "menu",
+        "label": "Music credits and license",
+        "sha256": "cc81b42ca68775783b59cb4efa3ad9d3e68b886d60a751638100b626951a0ea6"
+      },
+      {
+        "changed": [
+          "expanded"
+        ],
+        "file": "state-4.png",
+        "index": 3,
+        "kind": "menu",
+        "label": "English",
+        "sha256": "9be034c3ed9f0fc3f8149f39002b9a1eb9666d3a58a5469b407e905641e81289"
+      }
+    ],
+    "url": "https://www.larkplayer.com/"
+  },
+  "summary": "Opened 4 of 4 control(s) on https://www.larkplayer.com/; 4 pictured in /home/raymant/coding/weechy-com/capture/states.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "linux-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "first_controls",
+      "message": "Only the first controls found are opened, one at a time; menus inside menus and hover-only menus are not."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 4,
+    "total": 4
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "https://www.larkplayer.com/"
+    }
+  ],
+  "links": []
+}

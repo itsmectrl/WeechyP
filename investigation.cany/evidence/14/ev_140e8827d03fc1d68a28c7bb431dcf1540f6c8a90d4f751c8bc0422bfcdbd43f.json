@@ -1,0 +1,637 @@
+{
+  "id": "ev_140e8827d03fc1d68a28c7bb431dcf1540f6c8a90d4f751c8bc0422bfcdbd43f",
+  "subject": {
+    "kind": "website",
+    "name": "https://www.larkplayer.com/"
+  },
+  "operation": "web_site_capture",
+  "params": {
+    "include_html": true,
+    "max_height": 12000,
+    "noise_pass": true,
+    "visitor_view": false,
+    "widths": [
+      1440,
+      768,
+      390
+    ]
+  },
+  "result": {
+    "counts": {
+      "forms": 0,
+      "headings": 29,
+      "images": 183,
+      "links": 33,
+      "outline": 370
+    },
+    "design": {
+      "backgrounds": [
+        {
+          "count": 25,
+          "value": "#f3f6f899"
+        },
+        {
+          "count": 12,
+          "value": "#191919"
+        },
+        {
+          "count": 10,
+          "value": "#f3f6f8"
+        },
+        {
+          "count": 10,
+          "value": "#ffffff14"
+        },
+        {
+          "count": 8,
+          "value": "#000000"
+        },
+        {
+          "count": 8,
+          "value": "#2596ff"
+        },
+        {
+          "count": 8,
+          "value": "#fef39a"
+        },
+        {
+          "count": 8,
+          "value": "#222324"
+        },
+        {
+          "count": 7,
+          "value": "#ff4f7b1f"
+        },
+        {
+          "count": 6,
+          "value": "#102c47"
+        },
+        {
+          "count": 6,
+          "value": "#111111"
+        },
+        {
+          "count": 6,
+          "value": "#222222"
+        },
+        {
+          "count": 6,
+          "value": "#ff0000"
+        },
+        {
+          "count": 5,
+          "value": "#0a0a0a"
+        },
+        {
+          "count": 5,
+          "value": "#15171b99"
+        },
+        {
+          "count": 4,
+          "value": "#f3f6f80f"
+        }
+      ],
+      "css_variables": {
+        "--a": "74.51% 0.167 183.61",
+        "--ac": "14.902% 0.0334 183.61",
+        "--animation-btn": "0.25s",
+        "--animation-input": ".2s",
+        "--b1": "25.3267% 0.015896 252.417568",
+        "--b2": "23.2607% 0.013807 253.100675",
+        "--b3": "21.1484% 0.01165 254.087939",
+        "--bc": "74.6477% 0.0216 264.435964",
+        "--border-btn": "1px",
+        "--btn-focus-scale": "0.95",
+        "--er": "71.76% 0.221 22.18",
+        "--erc": "0% 0 0",
+        "--fallback-a": "#00c7b5",
+        "--fallback-ac": "#000e0c",
+        "--fallback-b1": "#1d232a",
+        "--fallback-b2": "#191e24",
+        "--fallback-b3": "#15191e",
+        "--fallback-bc": "#a6adbb",
+        "--fallback-er": "#ff6f70",
+        "--fallback-erc": "#000",
+        "--fallback-in": "#00b3f0",
+        "--fallback-inc": "#000",
+        "--fallback-n": "#2a323c",
+        "--fallback-nc": "#a6adbb",
+        "--fallback-p": "#7582ff",
+        "--fallback-pc": "#050617",
+        "--fallback-s": "#ff71cf",
+        "--fallback-sc": "#190211",
+        "--fallback-su": "#00ca92",
+        "--fallback-suc": "#000",
+        "--fallback-wa": "#ffc22d",
+        "--fallback-wac": "#000",
+        "--in": "72.06% 0.191 231.6",
+        "--inc": "0% 0 0",
+        "--n": "31.3815% 0.021108 254.139175",
+        "--nc": "74.6477% 0.0216 264.435964",
+        "--p": "65.69% 0.196 275.75",
+        "--pc": "13.138% 0.0392 275.75",
+        "--rounded-badge": "1.9rem",
+        "--rounded-box": "1rem",
+        "--rounded-btn": "0.5rem",
+        "--s": "74.8% 0.26 342.55",
+        "--sc": "14.96% 0.052 342.55",
+        "--su": "64.8% 0.150 160",
+        "--suc": "0% 0 0",
+        "--tab-border": "1px",
+        "--tab-radius": "0.5rem",
+        "--wa": "84.71% 0.199 83.87",
+        "--wac": "0% 0 0"
+      },
+      "font_faces": [
+        {
+          "family": "Montserrat",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "700"
+        },
+        {
+          "family": "Montserrat",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "300"
+        },
+        {
+          "family": "Montserrat",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "600"
+        },
+        {
+          "family": "Raleway",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "500"
+        },
+        {
+          "family": "Raleway",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "600"
+        },
+        {
+          "family": "__Tilt_Warp_36c091",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "400"
+        },
+        {
+          "family": "__Tilt_Warp_36c091",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "400"
+        },
+        {
+          "family": "__Tilt_Warp_36c091",
+          "status": "loaded",
+          "style": "normal",
+          "weight": "400"
+        },
+        {
+          "family": "__Tilt_Warp_Fallback_36c091",
+          "status": "error",
+          "style": "normal",
+          "weight": "normal"
+        }
+      ],
+      "font_sizes": [
+        {
+          "count": 23,
+          "value": "16px"
+        },
+        {
+          "count": 22,
+          "value": "28px"
+        },
+        {
+          "count": 20,
+          "value": "18px"
+        },
+        {
+          "count": 16,
+          "value": "19.3266px"
+        },
+        {
+          "count": 15,
+          "value": "36px"
+        },
+        {
+          "count": 14,
+          "value": "15px"
+        },
+        {
+          "count": 14,
+          "value": "14px"
+        },
+        {
+          "count": 12,
+          "value": "72px"
+        },
+        {
+          "count": 11,
+          "value": "11px"
+        },
+        {
+          "count": 10,
+          "value": "9.99885px"
+        },
+        {
+          "count": 9,
+          "value": "15.4498px"
+        },
+        {
+          "count": 9,
+          "value": "8.71061px"
+        },
+        {
+          "count": 8,
+          "value": "5.63736px"
+        },
+        {
+          "count": 7,
+          "value": "20px"
+        },
+        {
+          "count": 7,
+          "value": "13px"
+        },
+        {
+          "count": 6,
+          "value": "12px"
+        }
+      ],
+      "font_weights": [
+        {
+          "count": 168,
+          "value": "400"
+        },
+        {
+          "count": 47,
+          "value": "500"
+        },
+        {
+          "count": 35,
+          "value": "700"
+        },
+        {
+          "count": 3,
+          "value": "600"
+        }
+      ],
+      "fonts": [
+        {
+          "count": 153,
+          "value": "Roboto, sans-serif"
+        },
+        {
+          "count": 78,
+          "value": "__Tilt_Warp_36c091, __Tilt_Warp_Fallback_36c091"
+        },
+        {
+          "count": 21,
+          "value": "__Tilt_Warp_36c091, __Tilt_Warp_Fallback_36c091, system-ui, sans-serif"
+        },
+        {
+          "count": 1,
+          "value": "Arial, sans-serif"
+        }
+      ],
+      "max_widths": [
+        {
+          "count": 4,
+          "value": "1440px"
+        },
+        {
+          "count": 4,
+          "value": "591.045px"
+        },
+        {
+          "count": 2,
+          "value": "1280px"
+        },
+        {
+          "count": 2,
+          "value": "1200px"
+        },
+        {
+          "count": 1,
+          "value": "960px"
+        },
+        {
+          "count": 1,
+          "value": "1248px"
+        }
+      ],
+      "radii": [
+        {
+          "count": 46,
+          "value": "50%"
+        },
+        {
+          "count": 15,
+          "value": "1px"
+        },
+        {
+          "count": 15,
+          "value": "28px"
+        },
+        {
+          "count": 14,
+          "value": "0px 2px 2px 0px"
+        },
+        {
+          "count": 13,
+          "value": "8px"
+        },
+        {
+          "count": 9,
+          "value": "6px"
+        },
+        {
+          "count": 9,
+          "value": "16px"
+        },
+        {
+          "count": 8,
+          "value": "14.5402px"
+        },
+        {
+          "count": 8,
+          "value": "8.19779px"
+        },
+        {
+          "count": 7,
+          "value": "20px"
+        }
+      ],
+      "shadows": [
+        {
+          "count": 46,
+          "value": "rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+        },
+        {
+          "count": 8,
+          "value": "rgba(255, 255, 255, 0.07) 0px 0px 0px 0.5px"
+        },
+        {
+          "count": 1,
+          "value": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px"
+        },
+        {
+          "count": 1,
+          "value": "rgba(0, 0, 0, 0.45) 0px 18px 40px 0px"
+        },
+        {
+          "count": 1,
+          "value": "rgba(255, 255, 255, 0.07) 0px 0px 0px 1.17183px"
+        },
+        {
+          "count": 1,
+          "value": "rgba(24, 56, 119, 0.4) -2.76094px 5.52187px 16.5656px 0px, rgba(24, 56, 119, 0.8) -4.14141px 1.38047px 5.52187px 0px"
+        }
+      ],
+      "spacing": [
+        {
+          "count": 82,
+          "value": "10px"
+        },
+        {
+          "count": 48,
+          "value": "12px"
+        },
+        {
+          "count": 45,
+          "value": "24px"
+        },
+        {
+          "count": 40,
+          "value": "14.5402px"
+        },
+        {
+          "count": 38,
+          "value": "8.19779px"
+        },
+        {
+          "count": 37,
+          "value": "28px"
+        },
+        {
+          "count": 35,
+          "value": "8px"
+        },
+        {
+          "count": 31,
+          "value": "7.27011px"
+        },
+        {
+          "count": 31,
+          "value": "4.0989px"
+        },
+        {
+          "count": 22,
+          "value": "20px"
+        },
+        {
+          "count": 22,
+          "value": "1.73479px"
+        },
+        {
+          "count": 20,
+          "value": "4px"
+        },
+        {
+          "count": 19,
+          "value": "16px"
+        },
+        {
+          "count": 18,
+          "value": "48px"
+        },
+        {
+          "count": 18,
+          "value": "5px"
+        },
+        {
+          "count": 14,
+          "value": "1.81916px"
+        },
+        {
+          "count": 14,
+          "value": "3.46958px"
+        },
+        {
+          "count": 14,
+          "value": "1.02565px"
+        },
+        {
+          "count": 12,
+          "value": "10.1406px"
+        },
+        {
+          "count": 12,
+          "value": "6.07177px"
+        },
+        {
+          "count": 12,
+          "value": "2px"
+        },
+        {
+          "count": 9,
+          "value": "3.63505px"
+        },
+        {
+          "count": 9,
+          "value": "2.04945px"
+        },
+        {
+          "count": 8,
+          "value": "10.9052px"
+        }
+      ],
+      "text_colors": [
+        {
+          "count": 51,
+          "value": "#f3f6f899"
+        },
+        {
+          "count": 36,
+          "value": "#f4f6f8"
+        },
+        {
+          "count": 35,
+          "value": "#f3f6f8"
+        },
+        {
+          "count": 21,
+          "value": "#a5a5a5"
+        },
+        {
+          "count": 20,
+          "value": "#ffffff66"
+        },
+        {
+          "count": 19,
+          "value": "#f3f6f833"
+        },
+        {
+          "count": 16,
+          "value": "#f3f2f229"
+        },
+        {
+          "count": 11,
+          "value": "#ffffff"
+        },
+        {
+          "count": 7,
+          "value": "#ff8cac"
+        },
+        {
+          "count": 6,
+          "value": "#fef39a"
+        },
+        {
+          "count": 6,
+          "value": "#4deec8"
+        },
+        {
+          "count": 4,
+          "value": "#15171b99"
+        },
+        {
+          "count": 4,
+          "value": "#a3a3a3"
+        },
+        {
+          "count": 4,
+          "value": "#7a7a7a"
+        },
+        {
+          "count": 3,
+          "value": "#f3f6f85c"
+        },
+        {
+          "count": 3,
+          "value": "#54b7ff"
+        }
+      ]
+    },
+    "files": [
+      "README.md",
+      "capture.json"
+    ],
+    "html_bytes": 170464,
+    "output_directory": "/home/raymant/coding/weechy-com/capture",
+    "screenshots": [
+      {
+        "css_width": 1440,
+        "cut": true,
+        "file": "screenshot-1440.png",
+        "height": 12000,
+        "noise_file": "noise-1440.png",
+        "noise_tiles": 1679,
+        "sha256": "36c93ab733f444fd5ba63bcff0bd766902c9ee6bd722dca658efcd0e88c5dc26",
+        "width": 1440
+      },
+      {
+        "css_width": 768,
+        "cut": true,
+        "file": "screenshot-768.png",
+        "height": 12000,
+        "noise_file": "noise-768.png",
+        "noise_tiles": 202,
+        "sha256": "25f63933e9ea391f3849fec6d869cc75c2bfc3f4577ed112a683a1513cb91c1d",
+        "width": 768
+      },
+      {
+        "css_width": 390,
+        "cut": true,
+        "file": "screenshot-390.png",
+        "height": 12000,
+        "noise_tiles": 0,
+        "sha256": "813de52ca8a71ff06f2caab2a2b2b66014fc3e3a761ecb1ba8b5a76a18f690fa",
+        "width": 390
+      }
+    ],
+    "title": "Lark Player: Free Music Player App",
+    "url": "https://www.larkplayer.com/"
+  },
+  "summary": "Captured https://www.larkplayer.com/: 3 screenshot(s), 370 outline items, 29 headings, 183 images, 33 links, 0 forms → /home/raymant/coding/weechy-com/capture.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "linux-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "one_state",
+      "message": "One state of the page: menus, dialogs and content behind interactions are not opened."
+    },
+    {
+      "code": "cross_origin_css",
+      "message": "CSS custom properties and breakpoints from cross-origin stylesheets can't be read."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 3,
+    "total": 3
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "https://www.larkplayer.com/"
+    },
+    {
+      "kind": "path",
+      "value": "/home/raymant/coding/weechy-com/capture"
+    }
+  ],
+  "links": []
+}
